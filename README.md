@@ -15,4 +15,4 @@ The Hadith API offers the following functionalities:
 
 Installation
 
-. Clone or download the repository().
+. Clone or download the repository(https://github.com/TehreemFatimaNasir/HadithApiProject).
